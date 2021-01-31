@@ -1,24 +1,10 @@
-# todolist
+# to-do list
 
-## Project setup
-```
-npm install
-```
+### 使用的框架
+* vue
+* tailwind
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 遇到的問題
+* 中文選字時enter偵測
+  * compositionstart
+  * compositionend
